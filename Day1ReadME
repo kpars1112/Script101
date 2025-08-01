@@ -1,0 +1,9 @@
+What this script does?
+This script Displays computer name and current date/time.
+
+How to run it:
+.\script-101-day1.ps1
+
+ex output:
+Computer Name: Stan
+Current Date & Time: Monday December 3, 2099 10:00:59 PM
