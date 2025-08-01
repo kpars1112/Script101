@@ -1,0 +1,11 @@
+# Script 101 - Day 1: Display Computer Name and Date/Time
+
+# Get computer name
+$computerName = $env:COMPUTERNAME
+
+# Get current date and time
+$currentDateTime = Get-Date
+
+# Display output
+Write-Output "Computer Name: $computerName"
+Write-Output "Current Date & Time: $currentDateTime"
